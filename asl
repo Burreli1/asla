@@ -5187,8 +5187,7 @@ https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 tvg-id="Denver8TV.us" tvg-name="Denver 8 TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/q66RMSc.png" group-title="United States",Denver 8 TV
 https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" tvg-country="US" tvg-language="English" tvg-logo="" group-title="United States",District of 
-
-#EXTINF:-1   group-title="-Adult 18 -",
+#EXTINF:-1,--- LISTA GRATIS achoAPPS.com
 http://www.achoTV.com
 #EXTINF:-1,Jasmin TV achoAPPS.com
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
